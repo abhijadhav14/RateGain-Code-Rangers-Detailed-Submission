@@ -26,6 +26,6 @@ I used python and selenium tool to solve the given problem , here are the steps 
 4. Next , I had to extract the Blog date and Blog Like Count , so I observed carefully and saw that these data were contained in the span tag
    and on the 1st span there was data about Blog Date and on the 4th span there was data about Blog like count .
 
-## Challenge :
+## Problem with CSV :
 
 - The challenge was to store these value in a file , first I chose CSV file format but it caused error as there were blogs in which the title contained comma and all of the dates on the blogs contained comma values which created extra columns in CSV file format , so finally I stored the extracted data in excel file format , for which I used **openpyxl** library
