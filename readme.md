@@ -1,6 +1,6 @@
 # Rate Gain Challenge ( Web-Scrapping )
 
-In this repository I have solved a challenge given by rate gain company on unstop platfrom .
+In this repository I have solved a challenge given by rate gain company on unstop platform .
 
 The challenge was to web-scrap few details from all the 45 pages of https://rategain.com/blog/ website .
 
